@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.vs\\11_04 desafio forms backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9BC4C-CC50-4D82-85C1-96779F4FD27A}|exercicio windows forms\\exercicio windows forms.csproj|e:\\.vs\\11_04 desafio forms backup\\exercicio windows forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD9BC4C-CC50-4D82-85C1-96779F4FD27A}|exercicio windows forms\\exercicio windows forms.csproj|solutionrelative:exercicio windows forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "E:\\.vs\\11_04 desafio forms backup\\exercicio windows forms\\Form4.cs",
+              "RelativeDocumentMoniker": "exercicio windows forms\\Form4.cs",
+              "ToolTip": "E:\\.vs\\11_04 desafio forms backup\\exercicio windows forms\\Form4.cs [Design]",
+              "RelativeToolTip": "exercicio windows forms\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:33:21.545Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
